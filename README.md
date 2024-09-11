@@ -1,1 +1,2 @@
-# A repository that store the swift code
+# Swift-Aayush
+- A repository that store the swift code
